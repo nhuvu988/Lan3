@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">List Songs</string>
+    <string name="date_hint">Hint</string>
+    <string name="event_description">Number songs</string>
+    <string name="add_event">Add Listsong</string>
+    <string name="title">Name Listsong</string>
+    <string name="days_until">%d days remaining</string>
+    <string name="set_date">Set Date</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="username">Nhập Tài Khoản</string>
+    <string name="password">Nhập Mật Khẩu</string>
+    <string name="not_registered">Không có Tài Khoản?  </string>
+    <string name="register">Đăng Ký</string>
+    <string name="confirm_password">Nhập Lại Mật Khẩu</string>
+    <string name="already_registered">Quên Pass</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
